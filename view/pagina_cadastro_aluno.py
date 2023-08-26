@@ -1,6 +1,6 @@
 class cadastro_de_aluno:
     @staticmethod
-    
+    #tESTE
     def pegar_dados_alunos(): 
         nome = input("DIGITE O NOME DO ALUNO: ")
         idade = int(input("DIGITE A IDADE DO ALUNO: "))
